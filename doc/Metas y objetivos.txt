@@ -1,0 +1,9 @@
+Meta: Hacer motor similar a dreams de ps5 para un videojuego 
+- Realizar un prototipo en menos de seis meses
+- Que tenga el caracteristicas de los zeldas como la exploracion y la jugabilidad
+- Que tenga una historia consistente como el Hollow Knigth.
+
+Aspectos a seguir 
+- Utilizar un motor propio(Opcional)
+- Aprender sobre arte pixelar
+- Desarrollar las mecanicas core

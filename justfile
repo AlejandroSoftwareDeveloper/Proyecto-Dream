@@ -22,3 +22,11 @@ gnat_is_install:
 
 # Check tools are install
 check_tools: gpr_is_install gnat_is_install
+
+# Clean main.gpr
+clean:
+    @gprclean -P main.gpr
+
+# Remove all files
+remove:
+    @rm -rf obj/ bin/ lib/
